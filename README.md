@@ -4,3 +4,6 @@ I'm Benjamaporn Sansa-ard from Thailand, a Business Intelligence Analyst Special
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenjamapornSan)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenjamapornSan&hide=contribs,prs)
